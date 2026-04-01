@@ -1,6 +1,6 @@
 # Movie-Genre-Trend
 
-✨** Key Highlights** 
+✨** Key Highlights ** 
 
 🔹 Analysis of reviews and follows by genre and language
 
