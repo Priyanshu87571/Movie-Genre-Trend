@@ -2,7 +2,7 @@
 
 ✨ Key Highlights  
 
-🔹 * Analysis of reviews and follows by genre and language
+🔹 Analysis of reviews and follows by genre and language
 
 🔹 Insights into audience favorites and chapter ratings 
 
