@@ -10,5 +10,7 @@
 
 
 ## Dashboard
+<img width="1467" height="748" alt="image" src="https://github.com/user-attachments/assets/e4278783-b2bf-4641-8faa-13d43a033958" />
+
 
 
